@@ -17,8 +17,8 @@ var template = [
 module.exports = {
   opts: {
     // add your name to the contributors list
-    contributor: 'yourname',
-    email: 'you@there.edu',
+    contributor: 'sample',
+    email: 'sample@sv.cmu.edu',
     // set the name of the instrument here
     name: 'template',     
     // modify the following 2 parameters to generate waveform
